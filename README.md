@@ -1,4 +1,4 @@
-Berikut adalah kode HTML untuk game "MBG Kitchen: Chef & Jualan" yang menampilkan karakter chef yang sedang memasak, dilengkapi sistem pembeli offline & online, serta poin.
+
 ```html
 <!DOCTYPE html>
 <html lang="id">
